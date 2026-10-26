@@ -1,0 +1,20 @@
+# Compiled output
+bin/
+out/
+build/
+*.class
+
+# Local saved application data
+*.ser
+
+# Eclipse workspace configuration
+.classpath
+.project
+.settings/
+
+# Other editor and OS metadata
+.idea/
+.vscode/
+.DS_Store
+__MACOSX/
+Thumbs.db
